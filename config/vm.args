@@ -1,0 +1,5 @@
+## Name of the node
+-name parking_system@127.0.0.1
+
+## Cookie for distributed erlang
+-setcookie parking_system
